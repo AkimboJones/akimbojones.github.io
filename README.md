@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/AkimboJones/akimbojones.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[link](https://akimbojones.github.io/wxample)
+[link](/wxample)
 
 
 ### Markdown
